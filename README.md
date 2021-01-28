@@ -1,3 +1,3 @@
 # DATA-310 
 
-[This is a link](wwww.google.com)
+[This is a link](www.google.com)
